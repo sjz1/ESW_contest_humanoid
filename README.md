@@ -5,4 +5,5 @@
 https://youtu.be/eeT4h6zEQPg
 
 ## Yellow Detection
-![정렬_1](https://user-images.githubusercontent.com/68888169/178908283-a27893b0-ea77-42b9-9835-c13d6a81a578.gif)
+![정렬_1](https://user-images.githubusercontent.com/68888169/178908283-a27893b0-ea77-42b9-9835-c13d6a81a578.gif)![좌우정렬](https://user-images.githubusercontent.com/68888169/178908600-67c0181f-3405-4926-8265-38333a4cbfd0.gif)
+
