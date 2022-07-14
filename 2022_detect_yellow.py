@@ -67,6 +67,7 @@ while (True):
             #print("2",pt2)
             
             
+            
 
             
             cv.line(cdst, pt1, pt2, (0, 0, 255), 3, cv.LINE_AA) #라인그리기
