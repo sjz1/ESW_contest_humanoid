@@ -7,7 +7,7 @@ total.py
 Code_of_RaspberryPi.py
 
 ### 제어보드 코드
-Code_of_.py
+Code_of_ControlBoard.py
 
 
 # Numbering
