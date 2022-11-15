@@ -1,5 +1,13 @@
 # 파일 설명
 
+### 파이썬으로만 구동해보고 싶을때 (CPU)
+total.py
+
+### 라즈베리파이보드 코드
+Code_of_RaspberryPi.py
+
+### 제어보드 코드
+Code_of_.py
 
 
 # Numbering
