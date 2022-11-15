@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/68888169/201863480-db6604af-6ddf-4999-b754-d790ed7b115f.png)
+
 # 파일 설명
 
 ## 파이썬으로만 구동해보고 싶을때 (CPU)
@@ -20,5 +22,5 @@ final_ESW 디렉토리 클릭 (./final_ESW)
 
 ![image](https://user-images.githubusercontent.com/68888169/201863414-0c5a10d3-9d01-4ec9-96c5-096d8a3ae227.png)
 
-![image](https://user-images.githubusercontent.com/68888169/201863480-db6604af-6ddf-4999-b754-d790ed7b115f.png)
+
 
