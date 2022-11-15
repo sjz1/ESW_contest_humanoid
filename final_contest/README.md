@@ -3,16 +3,16 @@
 # 파일 설명
 
 ## 파이썬으로만 구동해보고 싶을때 (CPU)
-total.py
+#### total.py
 
 ## 라즈베리파이보드 코드
-Code_of_RaspberryPi.py
+#### Code_of_RaspberryPi.py
 
 ## 제어보드 코드
-Code_of_ControlBoard.py
+#### Code_of_ControlBoard.py
 
 ## 디테일한 코드 (기능별 분류)를 보고 싶을때
-final_ESW 디렉토리 클릭 (./final_ESW)
+#### final_ESW 디렉토리 클릭 (./final_ESW)
 
 
 # Numbering
